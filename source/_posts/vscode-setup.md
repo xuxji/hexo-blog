@@ -4,7 +4,7 @@ date: 2017-01-06 08:33:41
 categories: 前端
 tags:
 - IDE
-description: VSCode大法好
+description: 目前在前端开发中主要是使用VS Code。VS Code是来自微软的编辑器，基于Github的Electron开发，非常简洁快速，内置Debug，Github GUI以及终端功能，十分强大。现在支持的扩展和主题已经很多，借助一些扩展，可以快速搭建一个高效的前端开发环境。
 ---
 目前在前端开发中主要是使用VS Code。VS Code是来自微软的编辑器，基于Github的Electron开发，非常简洁快速，内置Debug，Github GUI以及终端功能，十分强大。现在支持的扩展和主题已经很多，借助一些扩展，可以快速搭建一个高效的前端开发环境。下面是介绍一下我在平时工作和个人开发中用到的一些非常不错的扩展和主题：
 
@@ -52,4 +52,8 @@ Chrome Debug工具集成
 
 ### Material-theme
 一个非常不错的Material-design主题
+
+## 相关文章
+- [VS Code 初上手](http://www.html-js.com/article/IMWebshequ-VS-Code-chushangshou%203805)
+
 

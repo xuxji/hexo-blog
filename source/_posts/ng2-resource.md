@@ -4,7 +4,7 @@ date: 2016-09-25 22:23:44
 categories: angular2
 tags:
 - angular
-description: angular2资源整理
+description: 不管是1还是2，Angular最显著的特征就是其整合性。它是由单一项目组常年开发维护的一体化框架，涵盖了M、V、C/VM等各个层面，不需要组合、评估其它技术就能完成大部分前端开发任务。这样可以有效降低决策成本，提高决策速度，对需要快速起步的团队是非常有帮助的。
 ---
 {% asset_img angular2.jpg %}
 

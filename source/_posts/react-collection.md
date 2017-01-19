@@ -1,10 +1,10 @@
 ---
-title: react资源整理
+title: React资源整理
 date: 2016-12-26 22:16:36
 categories: react
 tags:
 - react
-description: react资源整理
+description: React的设计思想极其独特，属于革命性创新，性能出众，代码逻辑却非常简单。所以，越来越多的人开始关注和使用，它是目前Web开发的主流工具之一。
 ---
 
 ## 官方网站
@@ -16,7 +16,7 @@ description: react资源整理
 - [Airbnb React编码规范](https://zhuanlan.zhihu.com/p/20616464?utm_medium=social&utm_source=wechat_session)
 
 ## 教程
-- [阮一峰React教程](https://github.com/ruanyf/react-demos)
+- [阮一峰React教程](https://github.com/ruanyf/react-demos) [中文](http://www.ruanyifeng.com/blog/2015/03/react)
 - [Webpack 和 React 小书 - gitbook](https://fakefish.github.io/react-webpack-cookbook/index.html)
 
 ## 书箱
@@ -35,6 +35,14 @@ description: react资源整理
 - [Getting Started with ReactJS, Typescript, and Webpack](https://medium.com/@fay_jai/getting-started-with-reactjs-typescript-and-webpack-95dcaa0ed33c#.uap513rvh)
 - [React.js Fundamentals](https://online.reacttraining.com/p/reactjsfundamentals)
 - [How I learn React and Redux](https://iot-for-all.com/how-i-learned-react-redux-63087d7cf345#.wknxajmrn)
+- [【译】展望2016，React.js 最佳实践](https://blog.jimmylv.info/2016-01-22-React.js-Best-Practices-for-2016/)
+- [The React.js Way: Getting Started Tutorial](https://blog.risingstack.com/the-react-way-getting-started-tutorial/)
+- [掌握这5大核心概念，你就理解了React](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651225346&idx=1&sn=acaecdfdd9ed40b31527f6c8f80a23b4&chksm=bd49a4868a3e2d909018933736d92d54d144eb430cd4ecdb5f0723ffcf10589816b9cf367ba5&mpshare=1&scene=1&srcid=0116ek1lDVmHEqtq7OnX3Cft#rd)
+- [正确掌握 React 生命周期](https://gold.xitu.io/entry/587de1b32f301e0057a28897)
+- [React + Typescript + Webpack 开发环境配置教程](http://lalala.lol/2016/11/28/react-typescript-webpack/)
+- [一起理解 Virtual DOM](http://www.jianshu.com/p/bef1c1ee5a0e)
+- [正确掌握React 生命周期(Lifecycle)](http://moeover.com/2017/01/17/understand-react-lifecycle.html)
+- [搭建React大型应用](http://www.tgf21.com/2016/07/10/React:%E6%89%8B%E6%8A%8A%E6%89%8B%E6%90%AD%E5%BB%BAReact%E5%A4%A7%E5%9E%8B%E5%BA%94%E7%94%A8/)
 
 ## demo
 - [React && Backbone](http://todomvc.com/examples/react-backbone/)
@@ -44,6 +52,12 @@ description: react资源整理
 - [React Slingshot](https://github.com/coryhouse/react-slingshot)
 - [React-babel-webpack-boilerplate](https://github.com/ruanyf/react-babel-webpack-boilerplate)
 - [create-react-app](https://github.com/facebookincubator/create-react-app)
+
+## 工具
+- [Get Story Book](https://getstorybook.io/)
+
+## 编码规范
+- [Airbnb React编码规范](https://zhuanlan.zhihu.com/p/20616464?utm_medium=social&utm_source=wechat_session)
 
 ## 资源
 - [Awesome React](https://github.com/enaqx/awesome-react#react-and-bootstrap)

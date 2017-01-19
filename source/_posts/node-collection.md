@@ -1,9 +1,10 @@
 ---
 title: Nodejs资源整理
 date: 2017-01-03 08:40:20
-categories: node
-tags: node
-description: Nodejs 资源整理
+categories: node 
+tags: 
+- node
+description: Nodejs资源整理。Node是JavaScript语言的服务器运行环境。Node有点像JavaScript虚拟机，同时也提供大量工具库，使得JavaScript语言可以与操作系统互动（比如读写文件、新建子进程）。
 ---
 ## 网站
 - [The Node Way](http://thenodeway.io/)
@@ -35,7 +36,8 @@ Node.js基础入门教程，初学者可以从零开始循序渐进的了解和�
 - [Architecture of Node.js’ Internal Codebase](https://arenli.com/architecture-of-node-js-internal-codebase-57cd8376b71f#.rd97m63ff)
 - [You Don’t Know Node: Quick Intro to Core Features](https://webapplog.com/you-dont-know-node/#)
 - [Node Patterns: From Callbacks to Observer](https://webapplog.com/node-patterns-from-callbacks-to-observer/)
-
+- [Node.js Interview Questions and Answers](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/)
+- [Node.js Best Practices - How to Become a Better Developer in 2017](https://blog.risingstack.com/node-js-best-practices-2017/)
 
 ## 框架
 - [Express](http://www.expressjs.com.cn/)
