@@ -24,6 +24,7 @@ description: React的设计思想极其独特，属于革命性创新，性能�
 
 
 ## 文章
+- [一个 react+redux 工程实例](https://gold.xitu.io/entry/58817e728fd9c50067e560b8)
 - [The React Quick Start Guide](http://www.jackcallister.com/2015/01/05/the-react-quick-start-guide.html)
 - [【译】展望2016，React.js 最佳实践 (中英对照版)](https://blog.jimmylv.info/2016-01-22-React.js-Best-Practices-for-2016/)
 - [React实战：react+webpack+es6 实现简易todo app](http://www.jianshu.com/p/715913d3fabc?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends&from=singlemessage&isappinstalled=1)
@@ -43,6 +44,7 @@ description: React的设计思想极其独特，属于革命性创新，性能�
 - [一起理解 Virtual DOM](http://www.jianshu.com/p/bef1c1ee5a0e)
 - [正确掌握React 生命周期(Lifecycle)](http://moeover.com/2017/01/17/understand-react-lifecycle.html)
 - [搭建React大型应用](http://www.tgf21.com/2016/07/10/React:%E6%89%8B%E6%8A%8A%E6%89%8B%E6%90%AD%E5%BB%BAReact%E5%A4%A7%E5%9E%8B%E5%BA%94%E7%94%A8/)
+- [React 常用面试题目与分析](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651551676&idx=2&sn=b5d36019c22f1d55eb9cb085313321b2&chksm=8025a07db752296b785af57fff026ddfa6161b3b974fe72ea413d5ab64e46afac991b052cdc3&mpshare=1&scene=1&srcid=0120rHuOpbKwFAatLtVm95XQ#rd)
 
 ## demo
 - [React && Backbone](http://todomvc.com/examples/react-backbone/)
